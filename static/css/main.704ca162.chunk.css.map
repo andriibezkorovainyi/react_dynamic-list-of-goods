@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,mBACE,aACsB,CACvB,mCADC,6BAAA,CAAA,qBAMY,CALb,gBAIC,gBAAiB,CACjB,WAAY","file":"main.704ca162.chunk.css","sourcesContent":[".content-container {\n  margin: 0 auto;\n  max-width: max-content;\n}\n\n.loader-wrapper {\n  max-width: max-content;\n  padding: 20px 0 0;\n  margin: auto;\n}\n"]}
